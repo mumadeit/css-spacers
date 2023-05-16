@@ -3,7 +3,7 @@ In the <head> section of your HTML document, include a link to the CSS file cont
 
 html
 
-<link rel="stylesheet" href="path/to/spacers.css">
+<link rel="stylesheet" href="./spacers.css">
 
 Make sure to replace "path/to/spacing-classes.css" with the actual file path.
 
