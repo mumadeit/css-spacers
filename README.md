@@ -5,7 +5,7 @@ html
 
 <link rel="stylesheet" href="./spacers.css">
 
-Make sure to replace "path/to/spacing-classes.css" with the actual file path.
+Make sure to replace "./spacers.css" with the actual file path.
 
 Step 2: Apply spacing classes
 To apply the desired spacing to an HTML element, add the corresponding spacing class as a class attribute to that element. For example:
